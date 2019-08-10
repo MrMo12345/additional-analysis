@@ -1,2 +1,2 @@
 # additional-analysis
-This includes descriptive data on evictions 2000-2018 data, analysis at repeat address evictions, and eliminations of commercial entities. There are approximately 1.94% commercial entities in the data which is inline with the  eviction lab methodology (1.55%).
+This includes descriptive data on evictions 2000-2018 data, analysis at repeat address evictions, and eliminations of commercial entities. There are approximately 1.94% commercial entities in the data which is inline with the  eviction lab methodology (1.55%). This was done on the existing jupyter notebook that Andrew made. It is located in the folder 'code' under the name of map-evictions-since-2000.ipynb.
